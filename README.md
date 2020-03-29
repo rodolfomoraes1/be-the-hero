@@ -13,7 +13,7 @@
 
 # Running for the first time setup
 
-> yarn is required
+> yarn, Node, npm required
 
 After cloning this repo:
 
