@@ -7,7 +7,7 @@
 
   <img src="banner/screen.png" />
 
-> This project was made for learning purposes. It includes technologies, such as: NodeJs, React, React Native and auxiliar libs for development and test.
+> This project was made for learning purposes only and comes from Rocketseat's omnistack week crash course #11. It includes technologies, such as: NodeJs, React, React Native and auxiliar libs for development and test.
 
 </p>
 
