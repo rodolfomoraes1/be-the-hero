@@ -3,13 +3,15 @@
 Main tech stack:
 
 - React Native
-- Expo
 
-## How to run for the first time
+## How to run for the first time using Expo
 
 - Using npm, run the command "npm install -g expo-cli"
+- Run the command "yarn start"
+- Download the app "Expo" from your favorite app store, app store, google play and so on...
+- Open the expo app from you device
 
-* Download the project and run "npm i"
-* Run the command "npm start"
+## How to run the app using Expo
 
-The app will be served on localhost:3000
+- Run the command "yarn start"
+- Open the expo app from you device
