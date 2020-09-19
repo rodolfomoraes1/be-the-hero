@@ -38,4 +38,4 @@ After cloning this repo:
 
 ### Server
 
-- Run `npm test` at the `backend` folder
+- Run `npm test` on the `backend` folder
