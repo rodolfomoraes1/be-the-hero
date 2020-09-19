@@ -30,7 +30,7 @@ After cloning this repo:
 ### Mobile
 
 - Run `yarn` in the `mobile` folder
-- Update the `baseURL` at `src/config/index.js`
+- Update the `baseURL` on `src/config/index.js`
 - Go back to the root folder
 - Run `yarn start` to up the project
 
